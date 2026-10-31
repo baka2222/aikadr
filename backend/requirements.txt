@@ -1,0 +1,5 @@
+fastapi==0.159.1
+uvicorn==0.54.0
+python-multipart==0.0.20
+psycopg2-binary==2.9.13
+httpx==0.28.1
